@@ -33,21 +33,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Est. Valuation/Market Cap) |
 |---------|-------------|---------|-----------------|------------------------------------------|
-| **[Investran (SS&C)](https://www.ssctech.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$15B+ (Market Cap) |
-| **[IMS by RealPage](https://www.realpage.com/)** | Investment management system supporting real estate investment operations, reporting, and related workflows. | Custom / Contact Sales | N/A | ~$10.2B (Acquisition) |
-| **[Yardi Investment Suite](https://www.yardi.com/)** | Comprehensive investment and portfolio management solutions from Yardi for institutional owners, fund managers. | Custom / Contact Sales | N/A | ~$10B+ (Estimated) |
-| **[Carta Fund Admin](https://carta.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$8.5B (Valuation) |
-| **[AppFolio Investment Management](https://www.appfolio.com/)** | Investment management suite from AppFolio covering portfolio tracking, investor relations, and reporting. | Custom / Contact Sales | N/A | ~$7B (Market Cap) |
-| **[Allvue](https://www.allvue.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$1B+ (Estimated) |
-| **[Juniper Square](https://www.junipersquare.com/)** | Leading investor management and capital-raising platform for real estate sponsors, offering investor portals. | Custom / Contact Sales | N/A | ~$500M+ (Estimated) |
-| **[Dynamo Software](https://www.dynamosoftware.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$500M+ (Estimated) |
-| **[Altvia](https://www.altvia.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
-| **[Dealpath](https://www.dealpath.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
-| **[Backstop Solutions](https://www.backstopsolutions.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
-| **[Cash Flow Portal](https://www.cashflowportal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $99/month | Free Trial | Early-Stage / Unknown |
-| **[Agora](https://agorareal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
-| **[InvestNext](https://www.investnext.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
-| **[Groundbreaker](https://www.groundbreaker.co/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
+| **[Investran (SS&C)](https://www.ssctech.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$15B+ (Market Cap) |
+| **[IMS by RealPage](https://www.realpage.com/)** | Investment management system supporting real estate investment operations, reporting, and related workflows. | Custom / Contact Sales | No free tier | ~$10.2B (Acquisition) |
+| **[Yardi Investment Suite](https://www.yardi.com/)** | Comprehensive investment and portfolio management solutions from Yardi for institutional owners, fund managers. | Custom / Contact Sales | No free tier | ~$10B+ (Estimated) |
+| **[Carta Fund Admin](https://carta.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$8.5B (Valuation) |
+| **[AppFolio Investment Management](https://www.appfolio.com/)** | Investment management suite from AppFolio covering portfolio tracking, investor relations, and reporting. | Custom / Contact Sales | No free tier | ~$7B (Market Cap) |
+| **[Allvue](https://www.allvue.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$1B+ (Estimated) |
+| **[Juniper Square](https://www.junipersquare.com/)** | Leading investor management and capital-raising platform for real estate sponsors, offering investor portals. | Custom / Contact Sales | No free tier | ~$500M+ (Estimated) |
+| **[Dynamo Software](https://www.dynamosoftware.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$500M+ (Estimated) |
+| **[Altvia](https://www.altvia.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$100M+ (Estimated) |
+| **[Dealpath](https://www.dealpath.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$100M+ (Estimated) |
+| **[Backstop Solutions](https://www.backstopsolutions.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | No free tier | ~$100M+ (Estimated) |
+| **[Cash Flow Portal](https://www.cashflowportal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $99/month | 14-day Free Trial (Mock deals only) | Early-Stage / Unknown |
+| **[Agora](https://agorareal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $749/month | 14-day Free Trial | Early-Stage / Unknown |
+| **[InvestNext](https://www.investnext.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $499/month | No free tier | Early-Stage / Unknown |
+| **[Groundbreaker](https://www.groundbreaker.co/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Demo Required | No free tier | Early-Stage / Unknown |
 
 ## 🔓 Open-Source GitHub Projects
 
