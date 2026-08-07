@@ -1,70 +1,70 @@
-# Awesome-Real-Estate-Investment-Management
+# 🏢 Awesome Real Estate Investment Management 📈
 
-## Top Real Estate Investment Management Tools Ecosystem
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+<div align="center">
+<img src="./assets/banner.svg" alt="Awesome Real Estate Banner" width="100%" />
+</div>
+
+## 🌟 Top Real Estate Investment Management Tools Ecosystem
 
 **Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
-*Focused on Fund Administration, Investor Portals, Capital Raising, Portfolio Reporting, Deal Management & LP Relations for Real Estate*  
+*Focused on Fund Administration, Investor Portals, Capital Raising, Portfolio Reporting, Deal Management & LP Relations for Real Estate* 🚀  
 **Last updated: August 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Real Estate Investment Management**. These tools help sponsors, fund managers, and investment firms raise capital, manage investor relations, track portfolios, distribute reports, handle capital calls/distributions, and run investor portals.
+This repository tracks notable **SaaS platforms** 💰 and **open-source projects** 🛠️ for **Real Estate Investment Management**. These tools help sponsors, fund managers, and investment firms raise capital, manage investor relations, track portfolios, distribute reports, handle capital calls/distributions, and run investor portals.
 
 **Examples** include Juniper Square, AppFolio Investment Management, Yardi Investment Suite, IMS (RealPage), Cash Flow Portal, Agora, InvestNext, Groundbreaker, Altvia, Dealpath, Allvue, Dynamo Software, Carta Fund Admin, Backstop Solutions, and Investran (the category leaders).
 
 **Open-source emphasis**: This section is heavily expanded with available projects. Mature, production-grade open-source alternatives for institutional real estate fund administration and investor portals remain limited. Most open projects focus on property-level management, portfolio tracking, dealflow CRM, or foundational data infrastructure rather than full GP/LP fund operations.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites. ✨
 
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [SaaS/Hosted Platforms](#-saashosted-platforms)
+- [Open-Source GitHub Projects](#-open-source-github-projects)
+- [How to Contribute](#-how-to-contribute)
+- [Disclaimer](#-disclaimer)
 
-## SaaS/Hosted Platforms
+## 💼 SaaS/Hosted Platforms
 
-- **[Juniper Square](https://www.junipersquare.com/)**  
-  Leading investor management and capital-raising platform for real estate sponsors, offering investor portals, reporting, subscriptions, and LP communications.
+| Product | Description | Pricing | Free Tier Limit | Company Size (Est. Valuation/Market Cap) |
+|---------|-------------|---------|-----------------|------------------------------------------|
+| **[Investran (SS&C)](https://www.ssctech.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$15B+ (Market Cap) |
+| **[IMS by RealPage](https://www.realpage.com/)** | Investment management system supporting real estate investment operations, reporting, and related workflows. | Custom / Contact Sales | N/A | ~$10.2B (Acquisition) |
+| **[Yardi Investment Suite](https://www.yardi.com/)** | Comprehensive investment and portfolio management solutions from Yardi for institutional owners, fund managers. | Custom / Contact Sales | N/A | ~$10B+ (Estimated) |
+| **[Carta Fund Admin](https://carta.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$8.5B (Valuation) |
+| **[AppFolio Investment Management](https://www.appfolio.com/)** | Investment management suite from AppFolio covering portfolio tracking, investor relations, and reporting. | Custom / Contact Sales | N/A | ~$7B (Market Cap) |
+| **[Allvue](https://www.allvue.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$1B+ (Estimated) |
+| **[Juniper Square](https://www.junipersquare.com/)** | Leading investor management and capital-raising platform for real estate sponsors, offering investor portals. | Custom / Contact Sales | N/A | ~$500M+ (Estimated) |
+| **[Dynamo Software](https://www.dynamosoftware.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$500M+ (Estimated) |
+| **[Altvia](https://www.altvia.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
+| **[Dealpath](https://www.dealpath.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
+| **[Backstop Solutions](https://www.backstopsolutions.com/)** | Enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting. | Custom / Contact Sales | N/A | ~$100M+ (Estimated) |
+| **[Cash Flow Portal](https://www.cashflowportal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $99/month | Free Trial | Early-Stage / Unknown |
+| **[Agora](https://agorareal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
+| **[InvestNext](https://www.investnext.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
+| **[Groundbreaker](https://www.groundbreaker.co/)** | Capital raising, investor portals, syndication workflows, and deal management. | Custom / Contact Sales | N/A | Early-Stage / Unknown |
 
-- **[AppFolio Investment Management](https://www.appfolio.com/)**  
-  Investment management suite from AppFolio covering portfolio tracking, investor relations, and reporting for real estate investment firms.
+## 🔓 Open-Source GitHub Projects
 
-- **[Yardi Investment Suite / Yardi Investment Manager](https://www.yardi.com/)**  
-  Comprehensive investment and portfolio management solutions from Yardi for institutional owners, fund managers, and complex ownership structures.
-
-- **[IMS by RealPage](https://www.realpage.com/)**  
-  Investment management system supporting real estate investment operations, reporting, and related workflows.
-
-- **[Cash Flow Portal](https://www.cashflowportal.com/)**, **[Agora](https://agorareal.com/)**, **[InvestNext](https://www.investnext.com/)**, **[Groundbreaker](https://www.groundbreaker.co/)**  
-  Platforms focused on capital raising, investor portals, syndication workflows, and deal management for real estate sponsors.
-
-- **[Altvia](https://www.altvia.com/)**, **[Dealpath](https://www.dealpath.com/)**, **[Allvue](https://www.allvue.com/)**, **[Dynamo Software](https://www.dynamosoftware.com/)**, **[Carta Fund Admin](https://carta.com/)**, **[Backstop Solutions](https://www.backstopsolutions.com/)**, **[Investran](https://www.ssctech.com/)**  
-  Additional enterprise-grade solutions covering CRM, deal management, fund administration, portfolio analytics, and LP reporting used across private markets and real estate.
-
-## Open-Source GitHub Projects
-
-- **[AMOS](https://github.com/open-amos/amos)**  
-  Open-source data infrastructure for private market funds. Provides a canonical data model and reconciliation layer on top of a warehouse to unify deal, portfolio, fund admin, and accounting data.
-
-- **[OpenDCF](https://www.opendcf.io/)**  
-  Emerging open-source standard and tooling for real estate finance and DCF-style modeling, aimed at transparent, auditable institutional-grade analysis.
-
-- **[InsulaCRM](https://github.com/InsulaCRM/InsulaCRM)**  
-  Open-source CRM tailored for real estate wholesalers and investors, with lead management, deal pipelines, property tracking, and automation features.
-
-- **[TAPRE (Tracking & Analytics Platform for Real Estate)](https://github.com/ParadoxicalFlummox/TAPRE)**  
-  Self-hosted platform for real estate investors to track property performance, finances, and portfolio analytics (Vue.js + FastAPI + PostgreSQL).
-
-- **[Portfolio Performance](https://github.com/buchen/portfolio)**  
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** <a href="https://github.com/firefly-iii/firefly-iii/stargazers"><img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white" alt="stars"/></a>  
+  A free and open source personal finance manager.
+- **[Portfolio Performance](https://github.com/buchen/portfolio)** <a href="https://github.com/buchen/portfolio/stargazers"><img src="https://img.shields.io/github/stars/buchen/portfolio?style=social&color=white" alt="stars"/></a>  
   Popular open-source desktop application for tracking and evaluating investment portfolio performance across assets (more general investing than pure real estate funds).
-
-- **[Open-dealflow / VC-style deal CRMs](https://github.com/clawnify/open-dealflow)**  
+- **[Ghostfolio](https://github.com/Ghostfolio/ghostfolio)** <a href="https://github.com/Ghostfolio/ghostfolio/stargazers"><img src="https://img.shields.io/github/stars/Ghostfolio/ghostfolio?style=social&color=white" alt="stars"/></a>  
+  Open Source Wealth Management Software.
+- **[AMOS](https://github.com/open-amos/amos)** <a href="https://github.com/open-amos/amos/stargazers"><img src="https://img.shields.io/github/stars/open-amos/amos?style=social&color=white" alt="stars"/></a>  
+  Open-source data infrastructure for private market funds. Provides a canonical data model and reconciliation layer on top of a warehouse to unify deal, portfolio, fund admin, and accounting data.
+- **[TAPRE (Tracking & Analytics Platform for Real Estate)](https://github.com/ParadoxicalFlummox/TAPRE)** <a href="https://github.com/ParadoxicalFlummox/TAPRE/stargazers"><img src="https://img.shields.io/github/stars/ParadoxicalFlummox/TAPRE?style=social&color=white" alt="stars"/></a>  
+  Self-hosted platform for real estate investors to track property performance, finances, and portfolio analytics (Vue.js + FastAPI + PostgreSQL).
+- **[InsulaCRM](https://github.com/InsulaCRM/InsulaCRM)** <a href="https://github.com/InsulaCRM/InsulaCRM/stargazers"><img src="https://img.shields.io/github/stars/InsulaCRM/InsulaCRM?style=social&color=white" alt="stars"/></a>  
+  Open-source CRM tailored for real estate wholesalers and investors, with lead management, deal pipelines, property tracking, and automation features.
+- **[Open-dealflow / VC-style deal CRMs](https://github.com/clawnify/open-dealflow)** <a href="https://github.com/clawnify/open-dealflow/stargazers"><img src="https://img.shields.io/github/stars/clawnify/open-dealflow?style=social&color=white" alt="stars"/></a>  
   Open-source dealflow CRM concepts (pipeline, relationship graphs) that can be adapted for real estate deal sourcing and tracking.
-
-- **[Property / landlord management projects](https://github.com/)** (e.g. Microrealestate, Condo, Online Rental Property Manager, Nine)  
-  Open-source tools focused on operational property and rental management. Useful building blocks but generally not full investment/fund administration platforms.
-
-- **[General ERP & CRM foundations](https://github.com/)** (ERPNext, Odoo community modules, OpenProject)  
-  Flexible open-source ERP/CRM systems that teams sometimes extend for basic portfolio tracking, task management, or investor CRM needs.
 
 ### Additional Strong Open-Source Options
 
@@ -75,16 +75,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: True institutional fund administration and LP portals remain dominated by commercial platforms. For lighter needs, combine **AMOS-style data infrastructure** with a warehouse, use **open CRM/dealflow tools** for pipeline management, layer **portfolio tracking** applications, and build custom reporting/investor views on top of a modern data stack. ERPNext or Odoo can serve as a flexible base for smaller operations.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS/commercial or open-source.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+Star the repo if you find it useful! ⭐
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Real estate investment management involves complex regulatory, tax, accounting, and fiduciary requirements (SEC, state securities laws, fund admin standards, etc.). Open-source tools are generally not substitutes for certified fund administration or investor reporting platforms used by institutional managers.
@@ -92,5 +92,16 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for real estate sponsors, fund managers, investor relations teams, and operators seeking more transparent tooling.**  
+**Made for real estate sponsors, fund managers, investor relations teams, and operators seeking more transparent tooling.** 🏗️  
 Let's make private-market infrastructure more open where possible.
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Real-Estate-Investment-Management&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Estate-Investment-Management&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Estate-Investment-Management&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Estate-Investment-Management&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>

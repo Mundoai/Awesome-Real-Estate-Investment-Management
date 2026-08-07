@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3c72" />
+      <stop offset="100%" stop-color="#2a5298" />
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8a5c2">
+        <animate attributeName="stop-color" values="#f8a5c2;#f3a683;#f8a5c2" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#786fa6">
+        <animate attributeName="stop-color" values="#786fa6;#63cdda;#786fa6" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg-grad)" rx="15" />
+  
+  <text x="50%" y="40%" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#text-grad)" text-anchor="middle" alignment-baseline="middle">
+    Real Estate Investment Management
+  </text>
+  <text x="50%" y="70%" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">
+    Awesome Tools &amp; Ecosystem 🚀
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
+  </text>
+  
+  <!-- Dynamic Pulse Element -->
+  <circle cx="720" cy="100" r="10" fill="#f1c40f">
+    <animate attributeName="r" values="10;20;10" dur="1.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
